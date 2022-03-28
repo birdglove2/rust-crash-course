@@ -20,5 +20,5 @@ pub fn run() {
     }
 
     map.remove(&0);
-    println!("{:?}", map)
+    println!("{:?}", map);
 }
