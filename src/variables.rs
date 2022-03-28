@@ -19,10 +19,10 @@ pub fn run() {
     );
 
     // STRING
-    let char = "c";
+    let char = 'c'; // single quote
     let emoji = "\u{1F600}"; // :D
-    let string = "Hello World!";
-    println!("char: {}, emoji: {}, string: {}", char, emoji, string);
+    let str = "This is str!"; // double quote
+    println!("char: {}, emoji: {}, str: {}", char, emoji, str);
 
     // bool
     let is_true = true;
