@@ -1,4 +1,6 @@
 pub fn run() {
+    println!("======VARIABLES======");
+
     // NUMBER
     // unsigned integer == cannot be negative
     // u8, u16, u32, u64, u128
